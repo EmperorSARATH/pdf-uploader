@@ -36,3 +36,5 @@ The project involves 5 steps to extract the required pages from a PDF file:
 5. *Download Extracted PDF*
    - You will be redirected to a new page displaying the required PDF file.
    - From there, you can download the extracted PDF file.
+![pdf_uplaoder1](https://github.com/EmperorSARATH/pdf-uploader/assets/90062715/f7c593d5-f66c-4901-bce2-8c87974886e4)
+![pdf_uploader2](https://github.com/EmperorSARATH/pdf-uploader/assets/90062715/5fad3f62-5d1f-48b2-927e-3317669cc40b)
