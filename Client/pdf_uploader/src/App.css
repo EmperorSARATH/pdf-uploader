@@ -1,0 +1,95 @@
+.container{
+    text-align: center;
+  
+   
+}
+
+.Submit-btn{
+    margin-top:20px;
+    margin-bottom: 20px;
+    background-color: rgb(127, 227, 40);
+    border-radius: 50px;
+    padding: 10px;
+    width:500px;
+    position: relative;
+    top: 0;
+    font-family:'Times New Roman', Times, serif;
+    transition: top ease 0.1s;
+
+}
+
+.page-input{
+    font-size: large;
+}
+
+.label-page{
+    font-size: larger;
+    font-family:cursive;
+    
+   
+}
+
+.input-file{
+    font-size: large;
+    font-family:cursive;
+}
+
+.container-form{
+    border:2px solid black;
+    display: inline-block;
+    padding: 20px;
+}
+
+.heading{
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 130px;
+}
+
+
+.Submit-btn:hover{
+    top: -5px;
+}
+
+.Submit-btn:active{
+    background-color: rgb(32, 141, 200);
+}
+
+
+.extract-btn{
+    margin-top:20px;
+    margin-bottom: 20px;
+    background-color: rgb(237, 78, 30);
+    border-radius: 50px;
+    padding: 13px;
+    width:500px;
+    text-transform: capitalize;
+    font-size: larger;
+    font-weight: bold;
+    position: relative;
+    font-family:'Times New Roman', Times, serif;
+    top: 0;
+    transition: top ease 0.1s;
+}
+
+.extract-btn:hover{
+    top:-5px;
+}
+
+.extract-btn:active{
+    background-color: rgb(236, 247, 37);
+}
+
+.btn-col{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.info{
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+}
+
+.tooltip{
+  font-weight: bolder;
+  font-size: large;
+}
