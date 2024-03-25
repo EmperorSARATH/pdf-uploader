@@ -6,16 +6,16 @@
 ### Step 2: Install Dependencies for Client
 - Navigate to the directory Client/pdf_uploader.
 - Open a terminal in this directory from your favorite code editor.
-- Run npm install to install the necessary dependencies.
+- Run **npm install** to install the necessary dependencies.
 
 ### Step 3: Install Dependencies for Server
 - Navigate to the directory Server/.
 - Open a terminal in this directory from your favorite code editor.
-- Run npm install to install the necessary dependencies.
+- Run **npm install** to install the necessary dependencies.
 
 ### Step 4: Start Client and Server
-- To start the client, run npm start in the Client/pdf_uploader directory.
-- To start the server, run npm start in the Server/ directory.
+- To start the client, run **npm start** in the Client/pdf_uploader directory.
+- To start the server, run **npm start** in the Server/ directory.
 
 ## Project Details:
 
